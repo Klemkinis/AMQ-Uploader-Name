@@ -2,7 +2,8 @@
 // @name         AMQ ids
 // @version      0.1
 // @match        https://animemusicquiz.com/admin/approveVideos
-// @grant        none
+// @match        https://animemusicquiz.com/admin/approveVideos?skipMp3=true
+// @run-at: document-end
 // ==/UserScript==
 
 var uploaderEndpoint
